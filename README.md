@@ -1,8 +1,64 @@
 # KING_YOSEF_
 
-![KING_YOSEF_](./avatar.webp)
+<div style="display:flex; gap:24px; font-family:'Courier New',Courier,monospace; font-size:13px; line-height:1.15;">
 
-**KING_YOSEF_**
+<pre style="margin:0; white-space:pre; line-height:1.15;">                 ::::::::::::::---::::::::::::-::.....................
+                  .::-=+++++=-:.::-+++*+++=:-=*+++++++*+:::
+               .:+*=**+++*++*#+--+*++***++#*-+#=+***++*#=+#=:.
+             :-=#*=*#++#++*#++#++#+=#*=+#**#=+#==#+====--+#++#=.
+           .+*+#*-+#+=#+-:-**=*#+#*=+**++=---+#=+#*++==--+#=+#*+=:
+         .=++=**--*#=+#+-::+#=+#==**++++***=-*#=+++++*#=-+#==+++*+=:
+        .-#*=*#=-=+#==#+-::+#=+#=-=+++**+=*#++#=+#*++++--+#==******+.
+       ..:**=**---=#+=*#=--**=**--=+-::-*+=#**#=+#+------+#+=#+--:--=:
+     ...:**=*#-:::+#+=***++=-+-..=+=..:=::+++#==*******=+#==#+:..::--.
+     ....:*#*#*-::::=***+*+=-:++=+*++==+=-::=+#*+******#++#**#=:..::-:..
+      .....-=+=-:....::-=++===+++**+-**+=+==---=--=-------=+=--:..:::.....
+      .......:..-.........::--=+++*+++++===----::::....::..:=...::-:......
+     ... .....=+:.......-===:-=--=+*+---=+..:::---:.......++-:::..........
+      .. .....==-.....:=+=====*+==+*+==+*+:=-::::--:......==-.............
+      ..  ..:-===:..:-======+=***********--+-:::::-=-:..:-==-:...........
+      ..  ..:+===============-+*==----=+*:--::::::-==========-...........
+      ..  ..:+===============--:-+=-=+=:-.:----:::-==========-..........
+      ..  ..:=============+*+=::--...-::-:.:===-----=========-........
+      ..  ..:+======-+**++**=:.--::..::::. -**+--+=-:--======-........
+      ..  ..:===---::=#**+**=....:::......:******+:.::::--===-........
+       . ...:=--:::::-+*+:++--==----:-::::++-+*=-:.::::::::-=-:.....     ..
+       . ...:-::::::::.-+**=:=+++++==+==-=*++=:...:::::::::::::.....
+       .  ..:::::::::.-+-=+--===========-++==+:.:..:::::::::...... .
+        ..:::::::::-=+*+=+--=====-=======+*=-*+.:::::::::::::.....
+       .::::---==+++****+--===============*****=::::::::::::::.....
+     .=*+=-+***#*=+*+=-:-================+#****=:::::::::::::::::...
+      .=*++*****++=::::-==================***-**-::::::.::---==---:.
+        :::::::...  :-:-==================-**=+*+-:..:-+*****==++*+:
+         .  ...   ..-:-=================-:-+****+====***+++==---.
+          .  ..  ...-::-==============--::::=***+**+*=::-===-.
+               .....:::-============--::::::::-=====-:.-++-:.
+                .....:::-========--::::::::::::. ...  .-:.
+                    ......-:.::.-.::.................
+                       ...::.:::-.:::......     ..
+
+</pre>
+
+<table style="margin:0; border-collapse:collapse; line-height:1.15;">
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;"><b>KING_YOSEF_</b></td><td style="padding:1px 0;">Windows 10, Android 14, Linux</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;">⏱️ DO</td><td style="padding:1px 0;">22 yrs, 5 months, 29 days</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;">💤 IDLE</td><td style="padding:1px 0;">174 days, 16 hrs, 45 mins</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;">📦 NPM</td><td style="padding:1px 0;">npmjs.com/KING-YOSEF-0</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;">💻 IDE</td><td style="padding:1px 0;">VS Code, WebStorm, IDEA, CLion</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;"> Languages: Programming</td><td style="padding:1px 0;">JavaScript, Python, C++, HTML, CSS, C#, SQL, PHP, Java</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;"> Languages: Computer</td><td style="padding:1px 0;">C, C++, C#, Lua, Python, SQL</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;"> Languages: Host</td><td style="padding:1px 0;">English, Spanish</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;"> Hidden Talents</td><td style="padding:1px 0;">Microsoft Modding, iOS Jailbreaking</td></tr>
+<tr><td style="padding:1px 10px 1px 0; white-space:nowrap;"> Hobbies: Hardware</td><td style="padding:1px 0;">Overclocking, Bitcoin mining</td></tr>
+</table>
+
+</div>
+
+<br>
+
+## KING_YOSEF_
+
+**KING-YOSEF-0**
 
 [Follow](https://github.com/KING-YOSEF-0)
 
@@ -13,34 +69,6 @@
 | ✉️ Email | kingyosef0@gmail.com |
 
 <br>
-
-| ⚙️ **OS** | Windows 10, Android 14, Linux |
-|---|---|
-| ⏱️ **DO** | 22 yrs, 5 months, 29 days |
-| 💤 **IDLE** | 174 days, 16 hrs, 45 mins |
-| 📦 **NPM** | [npmjs.com/KING-YOSEF-0](https://www.npmjs.com/~king-yosef-0) |
-| 💻 **IDE** | VS Code, WebStorm |
-
-| 💻 **Languages: Programming** | JavaScript, Python, C++, HTML, CSS, SQL, PHP, Java |
-|---|---|
-| 💻 **Languages: Computer** | C, C++, C#, Lua, Python, SQL |
-| 🗣️ **Languages: Host** | English, Spanish |
-
-| 🎛️ **Hidden Talents** | Microsoft Modding, iOS Jailbreaking |
-|---|---|
-| 🔧 **Hobbies: Hardware** | Overclocking, Bitcoin mining |
-
-| 📬 **Contact** | |
-|---|---|
-| ✉️ **Email: Personal** | kingyosef0@gmail.com |
-| ✉️ **Email: Professional** | kingyosef0@protonmail.com |
-| ✉️ **Email: GitHub** | kingyosef0@users.noreply.github.com |
-| 💼 **LinkedIn** | [linkedin.com/in/king-yosef-0](https://linkedin.com/in/king-yosef-0) | 
-| 🌐 **Website** | [king-yosef-0.github.io](https://king-yosef-0.github.io/Main_Redirector/) |
-| 💬 **Discord** | KING_YOSEF_#1234 |
-| 🐙 **GitHub** | [KING-YOSEF-0](https://github.com/KING-YOSEF-0) |
-
----
 
 ### 📊 GitHub Stats
 ![KING_YOSEF_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=KING-YOSEF-0&show_icons=true&theme=radical&hide_border=true)
