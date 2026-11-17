@@ -1,18 +1,46 @@
-# Hi there, I'm KING_YOSEF_ 👋
+# KING_YOSEF_
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=500&lines=Developer+%7C+Explorer+%7C+Creator;Cybersecurity+Enthusiast;Game+Server+Builder;Code+is+my+canvas)](https://git.io/typing-svg)
+![KING_YOSEF_](./avatar.webp)
 
-⚡ Building secure systems, breaking limits.
+**KING_YOSEF_**
 
-### 🛠️ Tech Stack & Tools
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-*(Add or remove badges here based on what you actually use)*
+[Follow](https://github.com/KING-YOSEF-0)
 
-### 🚀 Featured Projects
-- **[Main_Redirector](https://github.com/KING-YOSEF-0/Main_Redirector)**: You can find links to almost every site here! (Built with CSS)
+| | |
+|---|---|
+| 👥 Followers | 420 |
+| 👥 Following | 7 |
+| ✉️ Email | kingyosef0@gmail.com |
+
+<br>
+
+| ⚙️ **OS** | Windows 10, Android 14, Linux |
+|---|---|
+| ⏱️ **DO** | 22 yrs, 5 months, 29 days |
+| 💤 **IDLE** | 174 days, 16 hrs, 45 mins |
+| 📦 **NPM** | [npmjs.com/KING-YOSEF-0](https://www.npmjs.com/~king-yosef-0) |
+| 💻 **IDE** | VS Code, WebStorm |
+
+| 💻 **Languages: Programming** | JavaScript, Python, C++, HTML, CSS, SQL, PHP, Java |
+|---|---|
+| 💻 **Languages: Computer** | C, C++, C#, Lua, Python, SQL |
+| 🗣️ **Languages: Host** | English, Spanish |
+
+| 🎛️ **Hidden Talents** | Microsoft Modding, iOS Jailbreaking |
+|---|---|
+| 🔧 **Hobbies: Hardware** | Overclocking, Bitcoin mining |
+
+| 📬 **Contact** | |
+|---|---|
+| ✉️ **Email: Personal** | kingyosef0@gmail.com |
+| ✉️ **Email: Professional** | kingyosef0@protonmail.com |
+| ✉️ **Email: GitHub** | kingyosef0@users.noreply.github.com |
+| 💼 **LinkedIn** | [linkedin.com/in/king-yosef-0](https://linkedin.com/in/king-yosef-0) | 
+| 🌐 **Website** | [king-yosef-0.github.io](https://king-yosef-0.github.io/Main_Redirector/) |
+| 💬 **Discord** | KING_YOSEF_#1234 |
+| 🐙 **GitHub** | [KING-YOSEF-0](https://github.com/KING-YOSEF-0) |
+
+---
 
 ### 📊 GitHub Stats
 ![KING_YOSEF_'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=KING-YOSEF-0&show_icons=true&theme=radical&hide_border=true)
@@ -20,21 +48,9 @@
 ### 🔥 Contribution Streak
 ![KING_YOSEF_'s Streak](https://streak-stats.demolab.com/?user=KING-YOSEF-0&theme=radical&hide_border=true)
 
-### 🌐 Connect with Me
-*(Replace the links below with your actual social media profiles)*
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://king-yosef-0.github.io/Main_Redirector/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KING-YOSEF-0)
-<!--
-**KING-YOSEF-0/KING-YOSEF-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Highlights
+- 📦 **Commits:** 1,331
+- 📛 **Issues:** 342
+- 🔀 **Pull Requests:** 196
+- ⭐ **Stars:** 2,186
+- 📏 **Lines of Code:** 66,284
