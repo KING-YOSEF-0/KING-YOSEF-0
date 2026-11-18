@@ -1,5 +1,7 @@
 # KING_YOSEF_
 
+![Code Rain](./code_rain.gif)
+
 ```
 ┌─[king@KING-YOSEF-0]─[~/projects]─(main)
 └─$ _
